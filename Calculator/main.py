@@ -49,7 +49,3 @@ while(True):
     else:
         num > 6
         exit()
-
-        
-    
-    
